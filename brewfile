@@ -1,8 +1,5 @@
-
 tap "homebrew/cask"
-mebrew/cask"
 tap "homebrew/cask-versions"
-
 brew "python"
 brew "node"
 brew "gcc"
@@ -74,64 +71,3 @@ cask "lunar"
 cask "transmission"
 cask "blip"
 cask "spotify"
-
-tap "homebrew/cask-versions"
-
-# ─── Browsers & Security ─────────────────────────
-cask "brave-browser"     # Privacy-focused browser
-
-# ─── Productivity & Launchers ────────────────────
-cask "raycast"           # Supercharged Spotlight replacement
-cask "appcleaner"        # Cleanly uninstall apps
-
-# ─── Disk & System Utilities ─────────────────────
-cask "balenaetcher"      # Flash OS images to USB/SD cards
-cask "keyboardcleantool" # Temporarily disable keyboard for cleaning
-
-# ─── Editors & Dev Tools ─────────────────────────
-cask "zed"               # Fast, collaborative code editor
-cask "cursor"            # AI-powered code editor
-cask "ghostty"           # Fast, native terminal emulator
-cask "warp"              # AI-powered terminal
-cask "codex-app"         # OpenAI Codex desktop app
-cask "postman"           # API development and testing
-cask "docker"            # Container platform
-cask "pgadmin4"          # PostgreSQL admin tool
-
-# ─── Browsers & Privacy ──────────────────────────
-cask "google-chrome"     # Google Chrome browser
-cask "tor-browser"       # Tor browser for anonymous browsing
-
-# ─── Productivity & Notes ────────────────────────
-cask "obsidian"          # Markdown knowledge base
-cask "notion"            # All-in-one workspace
-cask "linear-linear"     # Project management for dev teams
-cask "tempbox"           # Disposable email client
-
-# ─── Reading & Media ─────────────────────────────
-cask "sioyek"            # PDF reader for research papers
-cask "vlc"               # Media player
-
-# ─── Communication ───────────────────────────────
-cask "discord"           # Voice and text chat
-cask "whatsapp"          # Messaging
-cask "chatgpt"           # OpenAI ChatGPT desktop app
-
-# ─── Creative & Streaming ────────────────────────
-cask "obs"               # Open Broadcaster Software
-
-# ─── Security & Networking ───────────────────────
-cask "burp-suite"        # Web security testing
-cask "lulu"              # macOS firewall
-
-# ─── System Utilities ────────────────────────────
-cask "stats"             # System stats in menu bar
-cask "flux"              # Blue light filter
-cask "lunar"             # Monitor brightness control
-
-# ─── File Transfer & Downloads ───────────────────
-cask "transmission"      # Torrent client
-cask "blip"              # Send large files between devices
-
-# ─── Music ───────────────────────────────────────
-cask "spotify"           # Music streaming
