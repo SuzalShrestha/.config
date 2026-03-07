@@ -1,6 +1,5 @@
 
-export ANTHROPIC_BASE_URL="http://localhost:8080"
-mebrew/cask"
+tap "homebrew/cask"
 tap "homebrew/cask-versions"
 
 # ─── Browsers & Security ─────────────────────────
