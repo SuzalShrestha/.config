@@ -1,4 +1,4 @@
-t clone https://github.com/suzalshrestha/.config
+git clone https://github.com/suzalshrestha/.config
 cd .config
 brew bundle
 
